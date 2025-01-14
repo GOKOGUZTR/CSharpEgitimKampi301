@@ -1,6 +1,6 @@
 # FrmStatistics Teknik Detaylar
 
-FrmStatistics, tur organizasyonu ve rehberlik hizmetlerine ilişkin istatistiksel bilgileri görsel olarak sunan bir Windows Forms uygulamasıdır.
+## FrmStatistics, tur organizasyonu ve rehberlik hizmetlerine ilişkin istatistiksel bilgileri görsel olarak sunan bir Windows Forms uygulamasıdır.
 
 
 Gösterilen Veriler
